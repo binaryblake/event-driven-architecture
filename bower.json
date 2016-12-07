@@ -1,0 +1,8 @@
+{
+  "name": "event-driven-architecture",
+  "description": "A case study into an event-driven architecture",
+  "main": "index.html",
+  "dependencies": {
+    "reveal.js": "~3.3.0"
+  }
+}
